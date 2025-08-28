@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20👋%2C%20I'm%20Mohamed%20Gamal!&animation=fadeIn&type=wave&color=gradient&height=100" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hi%20👋%2C%20I'm%20JimmY!&animation=fadeIn&type=wave&color=gradient&height=100" alt="header"/>
 </p>
 
 <p align="center">
