@@ -16,7 +16,7 @@
 ## 🌍 About Me
 
 ```yaml
-name: Mohamed Gamal
+name: Jimmy
 location: Egypt
 role: Banking Professional | Entrepreneur | Writer
 focus_on: ["Excel & Data Auditing", "Process Improvement", "Fashion Brand (Camie)", "Creative Writing"]
